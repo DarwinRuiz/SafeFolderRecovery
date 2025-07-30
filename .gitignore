@@ -1,0 +1,24 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# PowerShell / Batch script artifacts
+*.log
+*.zip
+*.bak
+*.tmp
+*.~*
+
+# Editors
+*.vscode/
+*.idea/
+*.suo
+*.user
+*.cache
+*.DS_Store
+
+# Generated output
+__pycache__/
+README.txt
